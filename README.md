@@ -1,2 +1,2 @@
 # demo-git
-Testing Git skills
+Testing Git skills - By creating some test files
